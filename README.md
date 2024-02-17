@@ -68,7 +68,7 @@ Merge `answers` into main and navigate to the branches view of the repository. Y
 #### Exercise 3: Merging Branches and Resolving Conflicts
 
 There are two branches `mergeA` and `mergeB` each with markdown files labeled from 1 to 6.
-Make a pull request with `mergeA` as the **_compare_** branch and `mergeB` as the **_base_** branch.
+Make a pull request with `mergeA` as the **_base_** branch and `mergeB` as the **_compare_** branch.
 Upon comparing each branch, you will see that an automatic merge fails and that you will have to
 manually resolve conflict files.
 
