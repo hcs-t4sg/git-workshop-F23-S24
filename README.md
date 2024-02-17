@@ -2,7 +2,7 @@
 
 This activity consists of a series of small exercises to apply the concepts in the workshop slides in practice. In the activity, you will:
 
-- add, commit, and commit changes to a forked version of the repository
+- add, commit, and commit changes to a copied version of the repository
 - create new branches and practice merging, rebasing, and creating pull requests
 - resolve merge conflicts
 - revert and reset commits
